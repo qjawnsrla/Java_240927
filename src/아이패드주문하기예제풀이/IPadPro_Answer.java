@@ -103,7 +103,7 @@ public class IPadPro_Answer {
     // 제품 선택 옵션과 일련번호, 총 가격
     public void iPadProInfo() {
         Common common = new Common();
-        common.screenType
+        //common.screenType;
         final String[] screenType = {"", "11인치", "13인치"};
         final String[] colorType = {"", "스페이스 그레이", "실버"};
         final String[] memoryType = {"", "256GB", "512GB", "1TB", "2TB"};
